@@ -40,21 +40,17 @@ https://realm.io/news/kau-jake-wharton-testing-robots/
 
 ## Jenkins
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Our CI of choice. We use Jenkins Pipeline to have a "stage view" of each step. This is great to debug what whent wrong when building your pull request.
 
 ```
-Give the example
+https://github.com/jenkinsci/pipeline-plugin/blob/master/TUTORIAL.md
 ```
 
-And repeat
+Your Android project can have a file called Jenkinsfile with the intended configuration. More flexible than using the UI offered by Jenkins.
 
 ```
-until finished
+https://jenkins.io/doc/book/pipeline/jenkinsfile/
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Spoon
 
