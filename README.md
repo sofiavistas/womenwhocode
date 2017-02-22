@@ -12,7 +12,7 @@ Brush up some before diving in Espresso: https://www.codecademy.com/learn/learn-
 Step 1 –  Start here:
 
 ```
-http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+(http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
 ```
 
 Step 2 – Grab a cheat sheet:
@@ -71,6 +71,6 @@ http://blog.davidmedenjak.com/android/2016/11/22/mocking-api-calls.html
 
 * [Advanced Android Espresso](https://www.youtube.com/watch?v=JlHJFZvZyxw) - by Chiu-ki Chan
 * [UI Testing with Espresso](https://maven.apache.org/) - by Android Testing patterns series
-* [Your Tests Aren't Flaky](https://www.youtube.com/watch?v=hmk1h40shaE) - Google Tech Talks 2015
+* [Your Tests Aren't Flaky](https://www.youtube.com/watch?v=hmk1h40shaE) - by Google Tech Talks 2015
 
 
