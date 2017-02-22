@@ -12,7 +12,7 @@ Brush up some before diving in Espresso: https://www.codecademy.com/learn/learn-
 Step 1 –  Start here:
 
 ```
-(http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
+[Vogella Tutorials](http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
 ```
 
 Step 2 – Grab a cheat sheet:
