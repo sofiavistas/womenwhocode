@@ -7,7 +7,7 @@ few Java, no Espresso, vague Jenkins.
 
 Brush up some before diving in Espresso: https://www.codecademy.com/learn/learn-java
 
-### Espresso
+## Espresso
 
 Start here:
 
@@ -38,7 +38,7 @@ Grab some robots here:
 https://realm.io/news/kau-jake-wharton-testing-robots/
 ```
 
-### Jenkins
+## Jenkins
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -60,7 +60,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Android
+## Android
 
 Explain what these tests test and why
 
