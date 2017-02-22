@@ -1,4 +1,4 @@
-# womennwhocode
+# womenwhocode
 
 My learning resources used on the process of setting up a mobile automation framework for our Android app. My starting point:
 few Java, no Espresso, vague Jenkins.
