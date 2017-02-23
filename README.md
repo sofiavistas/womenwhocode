@@ -73,4 +73,13 @@ http://blog.davidmedenjak.com/android/2016/11/22/mocking-api-calls.html
 * [UI Testing with Espresso](https://maven.apache.org/) - by Android Testing patterns series
 * [Your Tests Aren't Flaky](https://www.youtube.com/watch?v=hmk1h40shaE) - by Google Tech Talks 2015
 
+# FAQ
 
+* I am having trouble when Espresso needs to wait for asyncronous tasks. What should I do?
+
+Give your Espresso some Idle Resources. Great starting post here: http://matgom.com/tutorial/2016/02/21/IdlingResource.html
+
+* I want to assert a more complicated View and I cannot get my way around in how to capture it. Are there other Matchers than the ones on the cheat sheet?
+
+Yes, you can find several after a quick search. keywords: custom matcher your-fancy-element-name .
+While you are here, probably you can implement your own custom matcher: http://qathread.blogspot.de/2014/03/descovering-espresso-for-android.html
